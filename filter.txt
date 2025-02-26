@@ -64,13 +64,13 @@ www.4gamers.com.tw##div[class^="fab-ads"]
 ! ----------------------------------------------------------------------
 ! 新聞或媒體
 ! udn 新聞
-#udn.com##dt.more_ad
-#udn.com##dt.only_mobile
-#udn.com##.udn-idle
-#udn.com##div[class^="udn-ads"]
-#udn.com##.udn-overlay
-#udn.com#%#//scriptlet('remove-class', 'idle-open')
-#udn.com#%#//scriptlet('set-cookie-reload', 'SeenActivityCloseNotice', 'true')
+!udn.com##dt.more_ad
+!udn.com##dt.only_mobile
+!udn.com##.udn-idle
+!udn.com##div[class^="udn-ads"]
+!udn.com##.udn-overlay
+!udn.com#%#//scriptlet('remove-class', 'idle-open')
+!udn.com#%#//scriptlet('set-cookie-reload', 'SeenActivityCloseNotice', 'true')
 
 ! udn 健康
 health.udn.com###overlay_show_box
