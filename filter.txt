@@ -6,8 +6,7 @@
 gamme.com.tw#%#//scriptlet('set-cookie-reload', 'r18', '1')
 ! momo 購物
 momoshop.com.tw#%#//scriptlet('set-cookie-reload', 'pwaLifeCircle', '1')
-! # ! udn 蓋板
-! # udn.com##%#//scriptlet('set-local-storage-item', 'bd2021-read-news', '1')
+
 ! ----------------------------------------------------------------------
 ! 白名單
 @@||ebb.io^$important,document,~extension
@@ -451,14 +450,7 @@ kikinote.net#%#//scriptlet('set-cookie-reload', 'isShowSociety', '1')
 m.xsw.tw#$#div.content{ position: unset!important; }
 vocus.cc##div[class$="guestSignUpCta"]
 vocus.cc#%#//scriptlet('set-session-storage-item', 'haveReadArticleId', '')
-udn.com#$#aside.wrapper-aside{ top: unset!important; }
-udn.com##div[class="article-content__ads--bd"]
-money.udn.com##ul[class="article-aside__ad-list"]
-money.udn.com#$#aside.article-aside{ margin-top: unset!important; }
-money.udn.com#%#//scriptlet('set-local-storage-item', '_ss_pp_id', '')
-money.udn.com#%#//scriptlet('prevent-addEventListener', 'click')
-money.udn.com##div[id="show_box"]
-money.udn.com##div[id="bottomAd"]
+
 ||cimg.cnyes.cool/prod/adContent/*
 news.cnyes.com##img[alt$="ad"]
 news.cnyes.com##div[class="_1ePH"]
@@ -490,8 +482,7 @@ new-reporter.com##div[class="modalJS_object"]
 mobile01.com#%#//scriptlet('remove-class', 'ad_popUp')
 mobile01.com##div[class=^="fancybox-container"]
 
-||udn.com^$cookie=/_ga.+/
-||udn.com^$cookie=trc_cookie_storage
+
 dq.yam.com##div[class$="-popup"]
 dq.yam.com##div[class$="-topBar"]
 ||stats.yam.com/y/collect^
