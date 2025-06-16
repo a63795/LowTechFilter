@@ -61,19 +61,7 @@ www.4gamers.com.tw##div[class="vue-portal-target"]
 www.4gamers.com.tw##div[class^="fab-ads"]
 ||www.4gamers.com.tw/site/api/aols/media?slot*
 
-! ----------------------------------------------------------------------
-! 新聞或媒體
-! udn 新聞
-! udn.com##dt.more_ad
-! udn.com##dt.only_mobile
-! udn.com##.udn-idle
-! udn.com##div[class^="udn-ads"]
-! udn.com##.udn-overlay
-! udn.com#%#//scriptlet('remove-class', 'idle-open')
-! udn.com#%#//scriptlet('set-cookie-reload', 'SeenActivityCloseNotice', 'true')
 
-! udn 健康
-! health.udn.com###overlay_show_box
 ! 自由時報
 ltn.com.tw##div[data-desc="內廣"]
 ltn.com.tw##div[class="idle_lightbox_target"]
